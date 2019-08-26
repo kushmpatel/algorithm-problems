@@ -49,5 +49,11 @@ Make sure the returned intervals are also sorted.
 **12. MostSignificantNumber.java** - It will find most significant number of a given integer.
   e.g input = 938567
   output = 9
+  
+**13. PalindromeString.java** - It will check whether string is palindrome or not
+
+**14.PrimeNumbers.java** - Find prime numbers from 0 - given number.
+   e.g. input - 17
+   output - [2, 3, 5, 7, 11, 13, 17]
  
 
