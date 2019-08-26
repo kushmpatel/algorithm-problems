@@ -4,6 +4,11 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ *  It will check whether string is palindrome or not
+ * @author asite
+ *
+ */
 public class PalindromeString {
 
 	public static void main(String[] args) {
