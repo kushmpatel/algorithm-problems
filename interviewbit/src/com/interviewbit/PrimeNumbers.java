@@ -6,7 +6,7 @@ import java.util.ArrayList;
  *  Find prime numbers from 0 - given number.
  *  e.g. input - 17
  *  output - [2, 3, 5, 7, 11, 13, 17]
- * @author asite
+ * 
  *
  */
 public class PrimeNumbers {
