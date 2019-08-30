@@ -2,7 +2,7 @@ package com.interviewbit;
 
 /**
  * This program simply calculates how many digit are there for a particular integer input
- * @author asite
+ * 
  *
  */
 public class CalNumberOfDigit {
