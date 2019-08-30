@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  *  It will check whether string is palindrome or not
- * @author asite
+ *
  *
  */
 public class PalindromeString {
