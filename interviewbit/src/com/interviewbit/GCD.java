@@ -7,7 +7,7 @@ package com.interviewbit;
  * Now greatest common factor between these two numbers  = 6.
  * so output will be - 6.
  * 
- * @author asite
+ * 
  *
  */
 public class GCD {
