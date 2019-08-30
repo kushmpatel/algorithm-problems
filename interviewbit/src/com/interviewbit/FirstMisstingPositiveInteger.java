@@ -10,7 +10,7 @@ import java.util.List;
  * If you have an arraylist of given integer then it will find first missing integer.
  * e.g. input - [-9,2,0,-1]
  * Then here first missing positive integer is = 1
- * @author asite
+ *
  *
  */
 public class FirstMisstingPositiveInteger {
