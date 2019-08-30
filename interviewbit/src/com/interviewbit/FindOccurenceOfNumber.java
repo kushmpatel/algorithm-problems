@@ -7,7 +7,7 @@ import java.util.List;
  * For a given list of integer values , it will find an occurrence of a given particular value. 
  * e.g. input = [3,3,4,4,4,4,6,6,6,7,7,8] and you want to find occurrence of 6
  * 		output = 3 
- * @author asite
+ * 
  *
  */
 public class FindOccurenceOfNumber {
