@@ -3,7 +3,7 @@ package com.interviewbit;
 import java.util.stream.IntStream;
 /**
  *  Convert Given Integer to binary format.
- * @author asite
+ * 
  *
  */
 public class DigitToBonary {
