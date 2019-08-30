@@ -4,7 +4,7 @@ package com.interviewbit;
  * It will find most significant number of a given integer.
  * e.g input = 938567
  * output = 9
- * @author asite
+ * 
  *
  */
 public class MostSignificantNumber {
