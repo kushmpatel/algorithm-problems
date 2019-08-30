@@ -4,7 +4,7 @@ package com.interviewbit;
  * For a given string it will print length of last word.
  * e.g. input = kush mukeshbhai Patel
  * now here last work is Patel so output = 5
- * @author asite
+ * 
  *
  */
 public class LengthOfLastWord {
