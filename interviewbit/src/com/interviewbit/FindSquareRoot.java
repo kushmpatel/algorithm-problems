@@ -2,7 +2,7 @@ package com.interviewbit;
 
 /**
  * Find square root of a given number using binary search.
- * @author asite
+ * 
  *
  */
 public class FindSquareRoot {
