@@ -10,7 +10,7 @@ import java.util.List;
  * From given list of integer, how can you generate largest integer using all those list integer values ?
  * e.g. input = [54,546,548,60]
  * 		output = 6054854654
- * @author asite
+ * 
  *
  */
 public class LargestNumberFromGivenArray {
