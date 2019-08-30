@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * This program will find factors of given integer.
  * e.g input = 18
  * 		output = [1, 2, 3, 6, 9, 18]
- * @author asite
+ * 
  *
  */
 public class FindFactors {
