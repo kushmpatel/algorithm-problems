@@ -2,7 +2,7 @@ package com.interviewbit;
 
 /**
  * It is a simple program which search an element from a sorted array using binary search algorithm.
- * @author asite
+ *
  *
  */
 public class BinarySearch {
