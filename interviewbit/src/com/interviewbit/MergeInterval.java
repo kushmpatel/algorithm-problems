@@ -29,9 +29,12 @@ public class MergeInterval {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		ArrayList<Interval> listIntervals = new ArrayList<Interval>();
+		listIntervals.add(new Interval(1, 7));
+		listIntervals.add(new Interval(11, 15));
 		listIntervals.add(new Interval(1, 3));
-		listIntervals.add(new Interval(4, 5));
+		listIntervals.add(new Interval(9, 12));
 		listIntervals.add(new Interval(7, 8));
+		listIntervals.add(new Interval(2, 4));
 		listIntervals.add(new Interval(13, 18));
 	
 	

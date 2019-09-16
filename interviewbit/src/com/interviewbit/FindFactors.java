@@ -12,7 +12,7 @@ import java.util.ArrayList;
 public class FindFactors {
 	
 	public static void main(String args[]) {
-		System.out.println(new FindFactors().allFactors(42));
+		System.out.println(new FindFactors().allFactors(136));
 	}
 
 	public ArrayList<Integer> allFactors(int A) {

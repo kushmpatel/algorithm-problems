@@ -9,7 +9,7 @@ import java.util.stream.IntStream;
 public class DigitToBonary {
 
 	public static void main(String args[]) {
-		System.out.println(new DigitToBonary().findDigitsInBinary(0));
+		System.out.println(new DigitToBonary().findDigitsInBinary(18));
 	}
 	
 	public String findDigitsInBinary(int A) {

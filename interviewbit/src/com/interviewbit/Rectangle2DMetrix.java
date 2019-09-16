@@ -14,7 +14,7 @@ public class Rectangle2DMetrix {
 		}
 		// print(input);
 		// System.out.println(new Rectangle2DMetrix().prettyPrint(3));
-		new Rectangle2DMetrix().prettyPrint(1);
+		new Rectangle2DMetrix().print(new Rectangle2DMetrix().prettyPrint(3));
 
 	}
 

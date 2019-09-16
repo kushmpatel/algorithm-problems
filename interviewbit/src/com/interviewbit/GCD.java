@@ -14,7 +14,7 @@ public class GCD {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println(new GCD().gcd(36, 42));
+		System.out.println(new GCD().gcd(136, 42));
 	}
 	
 	 public int gcd(int A, int B) {
