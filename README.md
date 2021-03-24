@@ -59,3 +59,6 @@ Make sure the returned intervals are also sorted.
 **15.JobSequencingGreedy.java** - Here I have used greedy method to solve the problem. 
    Refer https://www.geeksforgeeks.org/job-sequencing-problem/ for better understanding.
    You can also watch https://youtu.be/zPtI8q9gvX8.
+   
+**16.KnapSackGreedy.java** - Here I have used greedy method to solve the problem.
+   Refer https://youtu.be/oTTzNMHM05I for better understanding.   
