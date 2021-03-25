@@ -62,3 +62,7 @@ Make sure the returned intervals are also sorted.
    
 **16.KnapSackGreedy.java** - Here I have used greedy method to solve the problem.
    Refer https://youtu.be/oTTzNMHM05I for better understanding.   
+   
+**17.HuffmanCoding.java** - HuffmanCoding is basically used for message compression. I solved it using greeedy alog.
+    Refer https://youtu.be/co4_ahEDCho.
+  
